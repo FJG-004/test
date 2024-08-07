@@ -1,10 +1,10 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-//                                                                     打印100-200中所有素数
+//                                                                     麓貌脫隆100-200脰脨脣霉脫脨脣脴脢媒
 //int su(int n)
 //{
 //	int j = 0;
-//	for (j = 2; j < n; j++)   //2到n-1
+//	for (j = 2; j < n; j++)   //2碌陆n-1
 //	{
 //		if (n % j == 0)
 //
@@ -29,11 +29,25 @@
 //	printf("count=%d", count);
 //	return 0;
 //}
-int main()
-{
-
-
-
-
-	return 0;
-}
+//                                                                              闂板勾
+//int run(int n)
+//{
+//	if(n % 4==0)
+//	{
+//		return 1;
+//	}
+//	
+//}
+//int main()
+//{
+//	int i = 0;
+//	for (i = 1000; i <= 2000; i++)
+//	{
+//		if(run(i)==1)
+//		{
+//			printf("%d\n", i);
+//		}
+//	}
+//
+//	return 0;
+//}
