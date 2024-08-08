@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-//                                                                     ´òÓ¡100-200ÖÐËùÓÐËØÊý
+//                                                                       打印100-200中所有素数
 //int su(int n)
 //{
 //	int j = 0;
@@ -48,6 +48,26 @@
 //			printf("%d\n", i);
 //		}
 //	}
+//
+//	return 0;
+//}
+//                                                                               米奇妙妙屋
+//int run(int n)
+//{
+//	return ((n % 4 == 0 && n % 100 != 0) || (n % 400 == 0));
+//}
+//int main()
+//{
+//	int i = 0;
+//
+//		for (i = 1000; i <= 2000; i++)
+//		{
+//			if(run(i)==1)
+//			{
+//				printf("%d\n", i);
+//			}
+//		}
+//
 //
 //	return 0;
 //}
