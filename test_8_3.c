@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-//                                                                                 ½×³Ë
+//                                                                                 é˜¶ä¹˜
 //                                                                                 for
 //int main()
 //{
@@ -47,7 +47,7 @@
 //	{
 //		for (i = 1,ret=1; i <= n; i++)
 //		{
-//			ret *= i;//retÒªÔÚÏÂÒ»´Î³õÊ¼»¯Îª1
+//			ret *= i;//retè¦åœ¨ä¸‹ä¸€æ¬¡åˆå§‹åŒ–ä¸º1
 //
 //		}
 //		sum += ret;
@@ -57,7 +57,7 @@
 //
 //	return 0;
 //}                           
-//                                                                          1!+2!+3!¼ò»¯
+//                                                                          1!+2!+3!ç®€åŒ–
 //int main()
 //{
 //	int i = 0;
