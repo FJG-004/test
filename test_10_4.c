@@ -199,3 +199,19 @@
 //    printf("%d", s);
 //    return 0;
 //}
+//#include <stdio.h>
+//int main()
+//{
+//    int a, b;
+//    scanf("%d %d", &a, &b);
+//    int c = (a - b) * 100 / b;
+//    if (a <= b)
+//        printf("OK\n");
+//    else if (c <= 10)
+//    {
+//        printf("Exceed %d%%. Ticket 200", c);
+//    }
+//    else
+//        printf("Exceed %d%%. License Revoked", (int)c);
+//    return 0;
+//}
